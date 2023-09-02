@@ -5,9 +5,9 @@ You can try to play it on >>>> https://overszboy.github.io/GamePrototype/
 
       Controls:
   w
-a s d -------- to move hero()
-space -------- jump
-Key C -------- Use knife
-Key X -------- Use grande  
-Left Shift --- Use bomb
+a s d -------- to move hero ||
+space -------- jump ||      
+Key C -------- Use knife ||
+Key X -------- Use grande || 
+Left Shift --- Use bomb ||
 
